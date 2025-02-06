@@ -1,0 +1,16 @@
+{
+    "users" :[
+        {
+            "id": "f43234es",
+            "name": "fulano",
+            "idade": 20
+        },
+        {
+            "id": "43j5k43",
+            "name": "ciclano",
+            "idade": 20
+        }
+    ]
+}
+
+   

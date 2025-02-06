@@ -1,0 +1,13 @@
+[
+  {
+    "name": "T-Shirt",
+    "amountInStock": 500,
+    "unitValue": 2
+  },
+
+  {
+    "name": "coca",
+    "amountInStock": 120,
+    "unitValue": 32
+  }
+]
